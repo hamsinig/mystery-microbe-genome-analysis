@@ -1,0 +1,1 @@
+results/assembly/contigs.fasta	data/references/fastani/shigella_flexneri.fna	97.6224	1277	1484

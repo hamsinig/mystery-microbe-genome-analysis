@@ -1,0 +1,10 @@
+Escherichia_coli_GCF_000005845.2	results/assembly/contigs.fasta	0.00948708	0	694/1000
+Shigella_boydii_GCF_002290485.1	results/assembly/contigs.fasta	0.0162749	0	551/1000
+Shigella_sonnei_GCF_002950395.1	results/assembly/contigs.fasta	0.0173006	0	533/1000
+Shigella_flexneri_GCF_000006925.2	results/assembly/contigs.fasta	0.0210181	0	474/1000
+Shigella_dysenteriae_GCF_022354085.1	results/assembly/contigs.fasta	0.0212923	0	470/1000
+Escherichia_coli_GCF_000008865.2	results/assembly/contigs.fasta	0.0239063	0	434/1000
+Escherichia_ruysiae_GCF_902498915.1	results/assembly/contigs.fasta	0.0623675	0	156/1000
+Escherichia_whittamii_GCF_014836715.1	results/assembly/contigs.fasta	0.0706202	0	128/1000
+Escherichia_fergusonii_GCF_020097475.1	results/assembly/contigs.fasta	0.0733545	0	120/1000
+Escherichia_marmotae_GCF_029962465.1	results/assembly/contigs.fasta	0.0834041	0	95/1000

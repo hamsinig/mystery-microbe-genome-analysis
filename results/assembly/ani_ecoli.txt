@@ -1,0 +1,1 @@
+results/assembly/contigs.fasta	data/references/fastani/ecoli_reference.fna	98.9929	1393	1484
