@@ -1,0 +1,38 @@
+Command line: /Users/ghamsini/miniforge3/envs/microbe-id/bin/spades.py	-1	/Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/trimmed/SRR2584863_1_trimmed.fastq	-2	/Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/trimmed/SRR2584863_2_trimmed.fastq	-o	/Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/assembly	-t	4	-m	8	
+
+System information:
+  SPAdes version: 4.3.0
+  Python version: 3.11.18
+  OS: macOS-15.7.7-arm64-arm-64bit
+
+Output dir: /Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/assembly
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/trimmed/SRR2584863_1_trimmed.fastq']
+      right reads: ['/Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/trimmed/SRR2584863_2_trimmed.fastq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+  Assembly graph output will use GFA v1.2 format
+Other parameters:
+  Dir for temp files: /Users/ghamsini/Desktop/projects/compbio/bioskillslab/mystery_microbe/results/assembly/tmp
+  Threads: 4
+  Memory limit (in Gb): 8
+

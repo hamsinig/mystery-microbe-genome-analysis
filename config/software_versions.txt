@@ -1,0 +1,10 @@
+=== Bioinformatics software versions ===
+FastQC v0.13.0
+fastp 1.4.0
+seqkit v2.14.0
+SPAdes genome assembler v4.3.0
+2.3
+
+=== Docker images ===
+quay.io/biocontainers/rgi:6.0.8--pyh05cac1d_0
+staphb/prokka:latest
